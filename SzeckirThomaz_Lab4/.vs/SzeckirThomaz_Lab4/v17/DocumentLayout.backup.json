@@ -7,32 +7,36 @@
       "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:SzeckirThomaz_Lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\output.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:output.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\BaseAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:BaseAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CreditAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:CreditAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\BaseAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:BaseAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CreditAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:CreditAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\BaseAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:BaseAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CreditAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:CreditAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|solutionrelative:SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B13CB73-9F92-46E2-A706-0C0194A49D32}|SzeckirThomaz_Lab4.vcxproj|C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CheckingAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "output.bin",
+              "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\output.bin",
+              "RelativeDocumentMoniker": "output.bin",
+              "ToolTip": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\output.bin",
+              "RelativeToolTip": "output.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-11T22:57:22.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CreditAccount.cpp",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CreditAccount.cpp",
               "RelativeDocumentMoniker": "CreditAccount.cpp",
@@ -62,12 +77,11 @@
               "RelativeToolTip": "CreditAccount.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-09T01:00:05.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T01:00:05.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreditAccount.h",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CreditAccount.h",
               "RelativeDocumentMoniker": "CreditAccount.h",
@@ -75,12 +89,11 @@
               "RelativeToolTip": "CreditAccount.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-09T00:58:13.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T00:58:13.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SavingsAccount.cpp",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\SavingsAccount.cpp",
               "RelativeDocumentMoniker": "SavingsAccount.cpp",
@@ -93,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CheckingAccount.cpp",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CheckingAccount.cpp",
               "RelativeDocumentMoniker": "CheckingAccount.cpp",
@@ -101,12 +114,11 @@
               "RelativeToolTip": "CheckingAccount.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-08T23:22:03.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T23:22:03.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "SavingsAccount.h",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\SavingsAccount.h",
               "RelativeDocumentMoniker": "SavingsAccount.h",
@@ -114,12 +126,11 @@
               "RelativeToolTip": "SavingsAccount.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-08T23:22:35.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T23:22:35.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CheckingAccount.h",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\CheckingAccount.h",
               "RelativeDocumentMoniker": "CheckingAccount.h",
@@ -127,12 +138,11 @@
               "RelativeToolTip": "CheckingAccount.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-08T21:36:42.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T21:36:42.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BaseAccount.cpp",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\BaseAccount.cpp",
               "RelativeDocumentMoniker": "BaseAccount.cpp",
@@ -145,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "BaseAccount.h",
               "DocumentMoniker": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\BaseAccount.h",
               "RelativeDocumentMoniker": "BaseAccount.h",
@@ -164,7 +174,7 @@
               "RelativeDocumentMoniker": "SzeckirThomaz_Lab4.cpp",
               "ToolTip": "C:\\FS\\SRP\\SzeckirThomaz_Lab4\\SzeckirThomaz_Lab4.cpp",
               "RelativeToolTip": "SzeckirThomaz_Lab4.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAASwCcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-08T21:29:34.737Z",
               "EditorCaption": ""

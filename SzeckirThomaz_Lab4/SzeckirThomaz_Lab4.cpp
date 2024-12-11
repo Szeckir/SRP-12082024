@@ -5,6 +5,8 @@
 #include "CheckingAccount.h"
 #include "SavingsAccount.h"
 #include "CreditAccount.h"
+#include <fstream>
+#include <vector>
 
 void Deposit(BaseAccount* account) {
     float amount;
@@ -17,7 +19,52 @@ void Deposit(BaseAccount* account) {
     else {
         std::cout << "You have to deposit more than 0$\n";
     }
-    
+}
+
+void WriteFileBinary(std::vector<BaseAccount*>& accounts) {
+    std::ofstream fout;
+
+    fout.open("output.bin", std::ios_base::binary);
+
+    if (fout.is_open())
+    {
+        // write to the file the number of Person objects in the file
+        int size = accounts.size();
+        fout.write((char*)&(size), sizeof(int));
+        // write to the file all the Person objects in the vector
+        fout.write((char*)&(accounts[0]), accounts.size() * sizeof(BaseAccount)); // O(1)
+
+        // close file
+        fout.close();
+    }
+    else
+    {
+        std::cout << "File did not open" << std::endl;
+    }
+}
+
+void ReadFileBinary(std::vector<BaseAccount*>& accounts) {
+    std::ifstream fin;
+    fin.open("output.bin", std::ios_base::binary); // binary format
+
+    if (fin.is_open())
+    {
+        // read in  the number of Person objects in the file
+        int size = 0;
+        fin.read((char*)&size, sizeof(int));
+        // resize the array to above size
+        accounts.resize(size);
+
+        // read from file all the Person objects in the vector
+        fin.read((char*)&(accounts[0]), accounts.size() * sizeof(BaseAccount)); // O(1)
+
+        // close file
+        fin.close();
+    }
+    else
+    {
+        std::cout << "File did not open" << std::endl;
+    }
 }
 
 void Withdraw(BaseAccount* account) {
@@ -39,9 +86,33 @@ int main()
     _CrtSetBreakAlloc(-1);
     _CrtDumpMemoryLeaks();
 
-    CheckingAccount* checking = new CheckingAccount();
-    SavingsAccount* savings = new SavingsAccount();
-    CreditAccount* credit = new CreditAccount();
+    BaseAccount* checking = new CheckingAccount();
+    BaseAccount* savings = new SavingsAccount();
+    BaseAccount* credit = new CreditAccount();
+    BaseAccount* credit2 = new CreditAccount();
+    BaseAccount* savings2 = new CreditAccount();
+
+    std::vector<BaseAccount*> accounts;
+    accounts.push_back(checking);
+    accounts.push_back(savings);
+    accounts.push_back(credit);
+    accounts.push_back(credit2);
+    accounts.push_back(savings2);
+
+    checking->Deposit(2000);
+    savings->Deposit(5000);
+    credit->Deposit(1500);
+    credit2->Deposit(3500);
+    savings2->Deposit(1000000);
+    savings2->Withdraw(200);
+
+    WriteFileBinary(accounts);
+    ReadFileBinary(accounts);
+
+    for (int i = 0; i < accounts.size(); i++) {
+        std::cout << accounts[i]->GetBalance() << std::endl;
+    }
+
 
     /*checking->Deposit(1000);
     savings->Deposit(2000);
@@ -49,7 +120,7 @@ int main()
 
     //credit->Withdraw(400);
 
-    bool running = true;
+   /* bool running = true;
     while (running) {
         std::cout << "\nWelcome to the Bank Menu\n";
         std::cout << "1. Deposit to Checking\n";
@@ -91,7 +162,9 @@ int main()
             std::cout << "Invalid choice. Please try again.\n";
             break;
         }
-    }
+    }*/
+
+    
 
     delete checking;
     delete savings;

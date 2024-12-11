@@ -1,2 +1,3 @@
 ﻿  SzeckirThomaz_Lab4.cpp
+C:\FS\SRP\SzeckirThomaz_Lab4\SzeckirThomaz_Lab4.cpp(32,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   SzeckirThomaz_Lab4.vcxproj -> C:\FS\SRP\SzeckirThomaz_Lab4\x64\Debug\SzeckirThomaz_Lab4.exe
